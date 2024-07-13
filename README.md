@@ -15,11 +15,11 @@ improve patient outcomes.
 
 This app brings together three critical health prediction models into one user-friendly interface:
 
-# Diabetes Prediction: Utilizes patient data to predict the likelihood of diabetes, enabling proactive health management.
+Diabetes Prediction: Utilizes patient data to predict the likelihood of diabetes, enabling proactive health management.
 
-# Heart Attack Death Prediction: Assesses the risk of death due to heart attacks, offering insights for timely medical intervention.
+Heart Attack Death Prediction: Assesses the risk of death due to heart attacks, offering insights for timely medical intervention.
 
-# Parkinson's Disease Detection: Detects the presence of Parkinson's Disease by analyzing voice and other medical parameters, aiding in early diagnosis 
+Parkinson's Disease Detection: Detects the presence of Parkinson's Disease by analyzing voice and other medical parameters, aiding in early diagnosis 
 
 and management.
 
